@@ -13,6 +13,7 @@ Designed for fast startup, simple configuration, and developer productivity.
 
 ## 📁 Folder Structure
 next-nest-app/
+
 ├── frontend/ # Next.js (React) App
 └── backend/ # NestJS API Server
 
