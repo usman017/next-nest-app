@@ -15,6 +15,7 @@ Designed for fast startup, simple configuration, and developer productivity.
 next-nest-app/
 
 ├── frontend/ # Next.js (React) App
+
 └── backend/ # NestJS API Server
 
 
