@@ -21,6 +21,7 @@ next-nest-app/
 
 
 clone Repository 
+- https://github.com/usman017/next-nest-app.git
 
 **Frontend**
 cd next-nest-app
